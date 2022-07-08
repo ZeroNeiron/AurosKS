@@ -1,0 +1,33 @@
+.table {
+    float: left;
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px;
+}
+th {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+tr {
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+.form {
+    margin: auto;
+    box-sizing : border-box;
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px;
+}
+.div {
+    box-sizing : border-box;
+    text-align: center;
+    padding: 5px;
+}
+.select {
+    width: 180px;
+    height: 60px;
+}
